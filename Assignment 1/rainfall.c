@@ -8,7 +8,6 @@ int main()
     float rainfall[3][4];
     float total, avg;
 
-    printf("Name: Manasvi Lunawat  PRN:B24CE1136");
     printf("\n\nRainfall data for 3 cities over 4 months\n");
     for (c = 0; c<3; c++) {
         printf("\nEnter rainfall data for City %d (in mm):\n", c + 1);
