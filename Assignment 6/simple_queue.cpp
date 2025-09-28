@@ -74,7 +74,7 @@ int main() {
     int choice, t;
     char c;
     do {
-        cout << "\n------Welcome to the Coffee Shop------" << endl;
+        cout << "\n-------Welcome to the Coffee Shop-------" << endl;
         cout << "1. Get token\n2. Process token\n3. Display Queue\n4. Exit " << endl;
         cout << "Enter your choice (1/2/3/4): ";
         cin >> choice;
